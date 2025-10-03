@@ -1,14 +1,14 @@
-#API de Ejemplo
+            API de Ejemplo
 
 Este proyecto implementa una API que permite consultar tato la información de usuarios como productos.
 
-#Funcionalidades
+Funcionalidades
 
 - Permite registrar nuevos usuarios
 - Manejo de productos con CRUD
 - Respuesaas en formato JSON
 
-#Instalación
+Instalación
 
 ```powershell
 python -m venv .venv
