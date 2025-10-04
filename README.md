@@ -6,7 +6,7 @@ Funcionalidades
 
 - Permite registrar nuevos usuarios
 - Manejo de productos con CRUD
-- Respuesaas en formato JSON
+- Respuestas en formato JSON
 
 Instalación
 
